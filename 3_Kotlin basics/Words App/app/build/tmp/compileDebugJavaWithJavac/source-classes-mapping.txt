@@ -1,0 +1,10 @@
+com/example/wordsapp/BuildConfig.java
+ com.example.wordsapp.BuildConfig
+com/example/wordsapp/databinding/FragmentWordListBinding.java
+ com.example.wordsapp.databinding.FragmentWordListBinding
+com/example/wordsapp/databinding/FragmentLetterListBinding.java
+ com.example.wordsapp.databinding.FragmentLetterListBinding
+com/example/wordsapp/databinding/ItemViewBinding.java
+ com.example.wordsapp.databinding.ItemViewBinding
+com/example/wordsapp/databinding/ActivityMainBinding.java
+ com.example.wordsapp.databinding.ActivityMainBinding

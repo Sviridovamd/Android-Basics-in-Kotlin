@@ -1,0 +1,4 @@
+#Thu Dec 02 17:16:42 MSK 2021
+base.0=/home/mary/Documents/Android/Android-Basics-in-Kotlin/3_Kotlin basics/Words App/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
